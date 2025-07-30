@@ -1,17 +1,5 @@
 **CHAT APPLICATION**
 
-"COMPANY":CODETECH IT SOLUTION
-
-"NAME":CHESTA
-
-"INTERN ID":CT08DN805
-
-"DOMAIN":FULL STACK DEVELOPMENT
-
-"DURATION":8 WEEK
-
-"MENTOR": NEELA SANTOSH
-
 # 💬 ShhTalk – Real-Time Chat Application
 
 A real-time chat application built as part of my internship project using **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. It includes modern features such as:
